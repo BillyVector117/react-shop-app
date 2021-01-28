@@ -1,7 +1,7 @@
 #react #react-router-dom #component #styled-components #single-page-application #JavaScript 
 
 shop-app using react-router-dom, styled-components and props communication between components
-![react-shop-1](https://github.com/BillyVector117/react-router-simple-demo/blob/main/Screenshot_1.png)
+![react-shop-1](https://github.com/BillyVector117/react-shop-app/blob/main/src/Screenshot_1.png)
 ![react-shop-2](https://github.com/BillyVector117/react-shop-app/blob/main/src/Screenshot_2.png)
 
 
